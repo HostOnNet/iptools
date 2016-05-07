@@ -21,6 +21,7 @@ $locale = @file("http://api.hostip.info/get_html.php?ip=".$ip . "&position=true"
 <ul>
 <li><a href="urldecode.php">urldecode</a></li>
 <li><a href="time_unix2human.php">Time Unix to Human Readable Format</a></li>
+<li><a href="hms2sec.php">Convert HH:MM:SS to Sec</a></li>
 <li><a href="download_youtube_video.php">Download Youtube Video</a></li>
 <li><a href="ip_change.php">Change IP address of sites in cpanel server for moving sites to new server</a></li>
 </ul>
